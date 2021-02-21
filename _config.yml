@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:       Type
-email:       ''
-description: ''
+title:       우주인
+email:       'steveboks@me.com'
+description: '심플하지만 화려한데 처음 그 느낌이 아니고 괜찮은데 뭔가 부족한 블로그'
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://steveboks.github.io/' # The base hostname & protocol for your site
 twitter:     ''
